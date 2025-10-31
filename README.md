@@ -58,7 +58,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###
 
-<img src="https://raw.githubusercontent.com/rahimov777/rahimov777/output/snake.svg" alt="Snake animation" />
+<img src="./snake.svg" alt="Snake animation" width="200" />
 
 ###
 
